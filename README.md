@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bonfas-68
-- 👀 I’m interested in web development and design 
-- 🌱 I’m currently learning javascript and have finished html and css .
+- 👀 A fullstack web developer using NodeJs Reactjs Js HTML CSS & SASS Database MSSQL MySQL MongoDB(mongoose)
+- 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on web development and help fellow to understand much better than I have understood. 
 - 📫 How to reach me .https://twitter.com/OluochBonfas
  and in facebook as Bonfas oluoch 
